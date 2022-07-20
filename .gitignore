@@ -53,6 +53,9 @@ Thumbs.db
 # /db/
 /db/import
 
+# /npc/
+/npc/custom
+
 # /conf/
 /conf/import
 /conf/msg_conf/import
